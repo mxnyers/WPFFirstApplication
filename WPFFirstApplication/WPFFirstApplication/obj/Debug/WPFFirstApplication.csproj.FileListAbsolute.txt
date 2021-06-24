@@ -1,0 +1,15 @@
+C:\Users\nyersm\Documents\GitHub\mitchsrepo\WPFFirstApplication\WPFFirstApplication\bin\Debug\WPFFirstApplication.exe.config
+C:\Users\nyersm\Documents\GitHub\mitchsrepo\WPFFirstApplication\WPFFirstApplication\bin\Debug\WPFFirstApplication.exe
+C:\Users\nyersm\Documents\GitHub\mitchsrepo\WPFFirstApplication\WPFFirstApplication\bin\Debug\WPFFirstApplication.pdb
+C:\Users\nyersm\Documents\GitHub\mitchsrepo\WPFFirstApplication\WPFFirstApplication\obj\Debug\MainWindow.g.cs
+C:\Users\nyersm\Documents\GitHub\mitchsrepo\WPFFirstApplication\WPFFirstApplication\obj\Debug\App.g.cs
+C:\Users\nyersm\Documents\GitHub\mitchsrepo\WPFFirstApplication\WPFFirstApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\nyersm\Documents\GitHub\mitchsrepo\WPFFirstApplication\WPFFirstApplication\obj\Debug\WPFFirstApplication_MarkupCompile.cache
+C:\Users\nyersm\Documents\GitHub\mitchsrepo\WPFFirstApplication\WPFFirstApplication\obj\Debug\WPFFirstApplication_MarkupCompile.lref
+C:\Users\nyersm\Documents\GitHub\mitchsrepo\WPFFirstApplication\WPFFirstApplication\obj\Debug\MainWindow.baml
+C:\Users\nyersm\Documents\GitHub\mitchsrepo\WPFFirstApplication\WPFFirstApplication\obj\Debug\WPFFirstApplication.g.resources
+C:\Users\nyersm\Documents\GitHub\mitchsrepo\WPFFirstApplication\WPFFirstApplication\obj\Debug\WPFFirstApplication.Properties.Resources.resources
+C:\Users\nyersm\Documents\GitHub\mitchsrepo\WPFFirstApplication\WPFFirstApplication\obj\Debug\WPFFirstApplication.csproj.GenerateResource.cache
+C:\Users\nyersm\Documents\GitHub\mitchsrepo\WPFFirstApplication\WPFFirstApplication\obj\Debug\WPFFirstApplication.csproj.CoreCompileInputs.cache
+C:\Users\nyersm\Documents\GitHub\mitchsrepo\WPFFirstApplication\WPFFirstApplication\obj\Debug\WPFFirstApplication.exe
+C:\Users\nyersm\Documents\GitHub\mitchsrepo\WPFFirstApplication\WPFFirstApplication\obj\Debug\WPFFirstApplication.pdb
